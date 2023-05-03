@@ -6,7 +6,6 @@ public class HomeWork4 {
         int[][] array = new int[3][3];
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
-
         for (int i = 0; i < array.length; i++) {
             for (int j = 0; j < array[i].length; j++) {
                 array[i][j] = random.nextInt(100);
@@ -29,6 +28,7 @@ public class HomeWork4 {
             }
         }
         System.out.println("Общая сумма все элементов массива равна " + sum);
+        System.out.println("Создал новую ветку, написал херню :D");
     }
 }
 
