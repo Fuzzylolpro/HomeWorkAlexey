@@ -29,6 +29,7 @@ public class HomeWork4 {
             }
         }
         System.out.println("Общая сумма все элементов массива равна " + sum);
+        System.out.println("Создал ветку, теперь обе ветки показаны в комитах фиолетовыми");
     }
 }
 
