@@ -52,6 +52,7 @@ public class HomeWork3 {
         for (int i = 0; i < masDouble.length; i++) {
             if (masDouble[i] == 0) System.out.println(i);
             else System.out.println("Нет нулевых элементов");
+            break;
         }
 
     }
