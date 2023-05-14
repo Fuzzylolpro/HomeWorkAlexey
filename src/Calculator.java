@@ -9,6 +9,7 @@ public class Calculator {
         this.cost = cost;
         this.color = color;
     }
+
     {
         System.out.println("Мы создаём калькулятор");
     }

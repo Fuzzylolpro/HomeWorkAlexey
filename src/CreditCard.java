@@ -7,8 +7,8 @@ public class CreditCard {
         this.currentAmount = currentAmount;
     }
 
-    int withdrawMoney() {
-        return currentAmount - 25;
+    int withdrawMoney(int a,int b) {
+        return a - b;
 
     }
 
