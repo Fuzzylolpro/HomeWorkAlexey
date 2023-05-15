@@ -6,7 +6,6 @@ public class ATM {
         int a = card1.currentAmount;
         card1.balans();
         card2.balans();
-        card1.withdrawMoney();
 
 
         card1.balans();
