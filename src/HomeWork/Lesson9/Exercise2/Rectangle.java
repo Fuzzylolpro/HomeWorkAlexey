@@ -2,7 +2,6 @@ package HomeWork.Lesson9.Exercise2;
 
 public class Rectangle extends Figure {
 
-
     double width;
     double height;
 
