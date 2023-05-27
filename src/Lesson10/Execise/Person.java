@@ -3,7 +3,7 @@ package Lesson10.Execise;
 import java.util.Date;
 import java.util.Objects;
 
-public class Person implements Cloneable{
+public class Person implements Cloneable {
     String name = "Alex";
     int age = 10;
     int mounthCash = 200;
@@ -58,7 +58,7 @@ public class Person implements Cloneable{
 
     @Override
     public int hashCode() {
-        return (int)(31*name.hashCode()*(new Date().getTime()));
+        return (int) (31 * name.hashCode() * (new Date().getTime()));
 
     }
 }
