@@ -15,7 +15,7 @@ public class Main {
         // System.out.println(line.equals("Group 67")); // сравнивание строк
         //System.out.println(line.equalsIgnoreCase("Group 67")); // сравнивание строк без регистров
         //System.out.println(line.compareTo("Group 67!")); // символьное сравнение строк
-        //System.out.println(line.toUpperCase()); // привпести в верхний регистр Все большое
+        //System.out.println(line.toUpperCase()); // привести в верхний регистр Все большое
         //System.out.println(line.toLowerCase()); // привести в нижний регистр
         //System.out.println(line.replace("6","8")); //замена буквы
         //System.out.println(line.replaceAll("[0-9]{3}","8")); // может менять цифры на нужное
