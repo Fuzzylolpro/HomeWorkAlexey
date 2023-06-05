@@ -10,7 +10,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите строку:");
         String str = scanner.nextLine();
-        String[] words = str.split(" ");
+        String[] words = str.split(" +");
         System.out.println(Arrays.toString(words));
         for (String word : words) {
             if (word.matches("[А-я]{2,6}")) //как добавить что бы запятую не читало?
