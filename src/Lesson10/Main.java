@@ -18,7 +18,7 @@ public class Main {
         System.out.println(house.equals(secondHouse));
 
         //Clone
-        House newHouse = (House) house.clone(); //Object -> House
+        House newHouse = (House) house.clone(); //Object -> Old.House
         System.out.println(newHouse.getColor());
 
         //getClass - методанные класса. Рефлексия

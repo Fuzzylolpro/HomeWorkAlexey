@@ -1,3 +1,5 @@
+package Old;
+
 public class ATM {
     public static void main(String[] args) {
         CreditCard card1 = new CreditCard(123456, 525);

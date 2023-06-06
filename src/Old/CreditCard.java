@@ -1,3 +1,5 @@
+package Old;
+
 public class CreditCard {
     int accountNumber;
     int currentAmount;

@@ -23,7 +23,7 @@ public class Person implements Cloneable {
 
     @Override
     public String toString() {
-        return "Person{" +
+        return "Old.Person{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", mounthCash=" + mounthCash +

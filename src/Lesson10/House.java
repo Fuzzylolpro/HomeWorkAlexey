@@ -28,7 +28,7 @@ public class House implements Cloneable{
 
     @Override
     public String toString() {
-        return "House{" +
+        return "Old.House{" +
                 "cost=" + cost +
                 ", color='" + color + '\'' +
                 ", name='" + name + '\'' +
@@ -51,7 +51,7 @@ public class House implements Cloneable{
 
     /*@Override
     protected Object clone() throws CloneNotSupportedException {
-        House house = (House) super.clone();
+        Old.House house = (Old.House) super.clone();
         house.dog = (Dog) dog.clone();
         return house;*/
 

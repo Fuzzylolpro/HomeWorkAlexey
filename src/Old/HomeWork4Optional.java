@@ -1,3 +1,5 @@
+package Old;
+
 public class HomeWork4Optional {
     public static void main(String[] args) {
         String[][] array = new String[8][8];

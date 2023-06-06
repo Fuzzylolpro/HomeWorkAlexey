@@ -1,3 +1,5 @@
+package Old;
+
 public class Calculator {
     double weight = 10.5;
     int cost = 100;

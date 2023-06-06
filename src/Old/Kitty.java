@@ -1,3 +1,5 @@
+package Old;
+
 public class Kitty {
     String color;
     String breed;

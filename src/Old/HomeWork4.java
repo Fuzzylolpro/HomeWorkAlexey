@@ -1,3 +1,5 @@
+package Old;
+
 import java.util.Random;
 import java.util.Scanner;
 
