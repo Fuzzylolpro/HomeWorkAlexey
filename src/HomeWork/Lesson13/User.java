@@ -12,7 +12,7 @@ public class User {
                 throw new WrongPasswordException();
             }
             if (!password.matches("^[a-zA-Z0-9_]{1,20}$")) {
-                throw new WrongPasswordException();
+                throw new WrongPasswordException("Неверно");
             }
             return true;
         } catch (WrongLoginException | WrongPasswordException e) {
