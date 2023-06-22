@@ -1,11 +1,7 @@
-package HomeWork.Lesson18;
+package HomeWork.Lesson18.LessonTask;
 
-import Lesson8.Developer;
+import HomeWork.Lesson18.LessonTask.Developer1;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Optional;
 import java.util.stream.Stream;
 
 public class LessonTask_3 {

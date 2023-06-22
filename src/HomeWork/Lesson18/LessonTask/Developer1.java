@@ -1,4 +1,4 @@
-package HomeWork.Lesson18;
+package HomeWork.Lesson18.LessonTask;
 
 import java.util.Objects;
 
