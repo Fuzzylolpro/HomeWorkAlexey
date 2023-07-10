@@ -29,7 +29,26 @@ public class Main {
 
 
 
-        Thread thread = new Thread(new SecondThread());
-        thread.start();
+        //Thread thread = new Thread(new MyFirstThread());
+        //System.out.println(thread.isAlive());
+        //thread.start();
+        //System.out.println(thread.isAlive());
+
+        //thread.interrupt();
+        //thread.isInterrupted()
+
+        //InteraptTest interaptTest = new InteraptTest();
+        //interaptTest.start();
+//
+        //Thread.sleep(10000);
+//
+        //interaptTest.interrupt();
+
+        //MyFirstThread m = new MyFirstThread();
+        //m.setDaemon(true); // перед стартом потока, закрывается с потоком мэйн
+        //m.start();
+
+
+
     }
 }
